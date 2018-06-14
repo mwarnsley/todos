@@ -1,0 +1,22 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "Todo Application",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwarnsley/todos.git"
+  },
+  "author": "Marcus Warnsley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwarnsley/todos/issues"
+  },
+  "homepage": "https://github.com/mwarnsley/todos#readme",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
